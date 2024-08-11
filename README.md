@@ -75,3 +75,4 @@ Film için veriler Tmdb'den çekilmiştir. Örnek vizyona girecek olan film ve t
 - **Sprint Board Update**:
 - ![image](https://user-images.githubusercontent.com/74383996/169966614-54887345-b5b4-4bcf-8fe3-2a83c3d9dce3.png)
 
+#
